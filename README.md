@@ -1,2 +1,3 @@
 # git_test
-git repo
+Hii this is sanskar 
+and this is Odin foundations course
